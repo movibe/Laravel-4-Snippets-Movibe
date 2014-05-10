@@ -1,6 +1,6 @@
 <snippet>
-    <content><![CDATA[Form::reset(${1:\$value}, ${2:\$attributes});]]></content>
-    <tabTrigger>Form-r</tabTrigger>
-    <scope>source.php</scope>
-    <description>Laravel: Form::reset()</description>
+    <content><![CDATA[{{ Form::reset('${1:\$value}', ${2:\$attributes}) }}]]></content>
+    <tabTrigger>Form-reset</tabTrigger>
+    <!-- <scope>source.php</scope> -->
+    <description>Laravel: Form::reset()</description> 
 </snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[array('${1:var}'=>${2:value} ${3:, ${4:val}})]]></content>
+    <tabTrigger>ar</tabTrigger>
+    <!-- <scope>source.php</scope> -->
+    <description>Array('var' => $value)</description>
+</snippet>
