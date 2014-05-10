@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$table->enum('${1:choices}', array('${1:foo}', '${2:bar}'));]]></content>
+	<tabTrigger>table-enum</tabTrigger>
+	<scope>source.php</scope>
+	<description>ENUM equivalent to the table</description>
+</snippet>

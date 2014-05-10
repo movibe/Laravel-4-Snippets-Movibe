@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$table->time('${1:sunrise}');]]></content>
+	<tabTrigger>table-time</tabTrigger>
+	<scope>source.php</scope>
+	<description>TIME equivalent to the table</description>
+</snippet>

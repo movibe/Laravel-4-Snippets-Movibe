@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$table->smallInteger('${1:votes}');]]></content>
+	<tabTrigger>table_smallInteger</tabTrigger>
+	<scope>source.php</scope>
+	<description>SMALLINT equivalent to the table</description>
+</snippet>

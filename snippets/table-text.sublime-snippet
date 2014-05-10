@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$table->text('${1:description}');]]></content>
+	<tabTrigger>table-text</tabTrigger>
+	<scope>source.php</scope>
+	<description>TEXT equivalent to the table</description>
+</snippet>
