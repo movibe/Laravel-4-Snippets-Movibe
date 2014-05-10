@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Request::forged();]]></content>
+    <tabTrigger>Req-f</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Request::forged()</description>
+</snippet>

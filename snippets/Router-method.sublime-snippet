@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Router::method(${1:\$method});]]></content>
+    <tabTrigger>Rter-m</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Router::method()</description>
+</snippet>

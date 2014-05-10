@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Router::routes();]]></content>
+    <tabTrigger>Rter-r</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Router::routes()</description>
+</snippet>

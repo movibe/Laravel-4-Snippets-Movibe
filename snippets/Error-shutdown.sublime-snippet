@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Error::shutdown();]]></content>
+    <tabTrigger>Err-s</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Error::shutdown()</description>
+</snippet>

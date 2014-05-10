@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Form::file(${1:\$name}, ${2:\$attributes});]]></content>
+    <tabTrigger>Form-f</tabTrigger>
+    <scope>source.php</scope>
+    <description>Laravel: Form::file()</description>
+</snippet>
