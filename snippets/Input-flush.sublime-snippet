@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[Input::flush();]]></content>
-    <tabTrigger>Inp-f</tabTrigger>
+    <tabTrigger>Input-flush</tabTrigger>
     <scope>source.php</scope>
     <description>Laravel: Input::flush()</description>
 </snippet>
