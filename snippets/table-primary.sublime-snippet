@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$table->primary(array('${1:first}', '${2:last}'))]]>;</content>
+	<tabTrigger>table-primary</tabTrigger>
+	<scope>source.php</scope>
+	<description>Adding composite keys</description>
+</snippet>
