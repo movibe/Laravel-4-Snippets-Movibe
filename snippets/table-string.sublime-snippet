@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[\$table->string('${1:email}');]]></content>
+	<content><![CDATA[\$table->string('${1:column}'${2:,${3:int}});]]></content>
 	<tabTrigger>table-string</tabTrigger>
 	<scope>source.php</scope>
 	<description>VARCHAR equivalent column</description>
