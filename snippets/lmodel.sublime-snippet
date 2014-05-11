@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[<?php
+
+class ${1:Model} extends ${2:Eloquent} {
+	${3://Timestamps 
+	${4:public \$timestamps=${5:false};}}
+	
+	${6:// Table Name
+	${7:public \$table='${8:tableName}';}}
+
+	${9://code}
+}
+]]></content>
+	<tabTrigger>lmodel</tabTrigger>
+	<scope>source.php</scope>
+	<description>Engine Table</description>
+</snippet>

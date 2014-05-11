@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[\$table->longText('${1:description}');]]></content>
-	<tabTrigger>table_longText</tabTrigger>
+	<tabTrigger>table-longText</tabTrigger>
 	<scope>source.php</scope>
 	<description>LONGTEXT equivalent to the table</description>
 </snippet>

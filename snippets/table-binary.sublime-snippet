@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[\$table->binary('${1:data}');]]></content>
-	<tabTrigger>table_binary</tabTrigger>
+	<tabTrigger>table-binary</tabTrigger>
 	<scope>source.php</scope>
 	<description>BLOB equivalent to the table</description>
 </snippet>

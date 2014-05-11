@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[\$table->boolean('${1:confirmed}');]]></content>
-	<tabTrigger>table_boolean</tabTrigger>
+	<tabTrigger>table-boolean</tabTrigger>
 	<scope>source.php</scope>
 	<description>BOOLEAN equivalent to the table</description>
 </snippet>

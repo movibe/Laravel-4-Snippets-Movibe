@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$table->renameColumn('${1:before_name}','${2:after_name}');]]></content>
+	<tabTrigger>table-renamecolumn</tabTrigger>
+	<scope>source.php</scope>
+	<description>RENAME COLUMN equivalent to the table</description>
+</snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[\$table->increments('${1:id}');]]></content>
-	<tabTrigger>table_increments</tabTrigger>
+	<tabTrigger>table-increments</tabTrigger>
 	<scope>source.php</scope>
 	<description>Incrementing ID to the table (primary key).</description>
 </snippet>

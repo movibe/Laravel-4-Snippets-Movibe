@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$table->dropColumn('${1:column1}');]]></content>
+	<tabTrigger>table-dropcolumn</tabTrigger>
+	<scope>source.php</scope>
+	<description>DROP COLUMN equivalent to the table</description>
+</snippet>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[\$table->string('${1:email}');]]></content>
-	<tabTrigger>table_string</tabTrigger>
+	<tabTrigger>table-string</tabTrigger>
 	<scope>source.php</scope>
 	<description>VARCHAR equivalent column</description>
 </snippet>

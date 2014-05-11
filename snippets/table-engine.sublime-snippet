@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$table->engine('${1:MyISAM|InnoDB}');]]></content>
+	<tabTrigger>table-engine</tabTrigger>
+	<scope>source.php</scope>
+	<description>Engine Table</description>
+</snippet>
