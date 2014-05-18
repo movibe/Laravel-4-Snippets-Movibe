@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[<div class="form-group">
+    ${1:{{ Form::label('${2:label}') }}}
+    {{ Form::text('${3:name}', '${4:value}'${5:, array('placeholder'=>'${6:description}', 'class'=>'form-control')} ) }}
+</div>]]></content>
+    <tabTrigger>fgt</tabTrigger>
+    <!-- <scope>source.php</scope> -->
+    <description>Laravel: Form::text()</description>
+</snippet>

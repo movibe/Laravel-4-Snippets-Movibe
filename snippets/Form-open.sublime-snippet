@@ -1,5 +1,7 @@
 <snippet>
-    <content><![CDATA[{{ Form::open(${1:\$action}, ${2:\$method}, ${3:\$attributes}, ${4:\$https}) }}]]></content>
+    <content><![CDATA[{{ Form::open(array('route'=> '${1:action|route}'${2:, 'method' => '${3:post|get}'}${4:, 'files' => '${5:true|false}'}${6:, 'autocomplete' => '${7:on|off}'} )) }}
+	${8:}
+{{ Form::close() }}]]></content>
     <tabTrigger>Form-open</tabTrigger>
     <!-- <scope>*</scope> -->
     <description>Laravel: Form::open()</description>

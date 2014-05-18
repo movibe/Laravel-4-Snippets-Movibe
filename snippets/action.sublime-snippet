@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[{{ action('${1:action}'${2:, '${3:controller}' }) }}]]></content>
+    <tabTrigger>action</tabTrigger>
+    <!-- <scope>source.php</scope> -->
+</snippet>
