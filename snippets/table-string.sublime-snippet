@@ -1,7 +1,7 @@
 <snippet>
-	<content><![CDATA[\$table->string('${1:column}'${2:,int})
-			${3:->nullable()}
-			${4:->default(null)};]]></content>
+	<content><![CDATA[\$table->string('${1:column}'${2:,${3:int}})
+			${4:->nullable()}
+			${5:->default(null)};]]></content>
 	<tabTrigger>table-string</tabTrigger>
 	<scope>source.php</scope>
 	<description>VARCHAR equivalent column</description>
