@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$table->foreign('${1:column_id}')->references('${2:id}')->on('${3:table_reference}');]]></content>
+	<tabTrigger>table-foreign</tabTrigger>
+	<scope>source.php</scope>
+	<description>FOREIGN equivalent to the table</description>
+</snippet>
