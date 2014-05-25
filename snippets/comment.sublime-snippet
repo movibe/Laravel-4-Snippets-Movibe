@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[{{-- ${1:Comment} --}}]]></content>
-    <tabTrigger>comment</tabTrigger>
+    <tabTrigger>lcom</tabTrigger>
     <!-- <scope>source.php</scope> -->
     <description>Blade Comment</description>
 </snippet>
