@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[\$this->layout->content = ${1:View-make};]]></content>
+    <tabTrigger>lc</tabTrigger>
+    <!-- <scope>source.php</scope> -->
+    <description>$this->layout->content = View-make;</description>
+</snippet>
