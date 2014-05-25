@@ -1,14 +1,18 @@
 <snippet>
 	<content><![CDATA[<?php
 
-class ${1:Model} extends ${2:Eloquent} {
-	${3://Timestamps 
-	${4:public \$timestamps=${5:false};}}
-	
-	${6:// Table Name
-	${7:public \$table='${8:tableName}';}}
+class ${1:Model} extends ${2:Eloquent} {	
 
-	${9://code}
+	${3://Guarded 
+	${4:public \$guarded=['${5:false}'];}}
+	
+	${6://Timestamps 
+	${7:public \$timestamps=${8:false};}}
+	
+	${9:// Table Name
+	${10:public \$table='${11:tableName}';}}
+
+	${12://code}
 }
 ]]></content>
 	<tabTrigger>lmodel</tabTrigger>
