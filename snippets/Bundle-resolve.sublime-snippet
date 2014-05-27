@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[Bundle::resolve(${1:\$bundle});]]></content>
     <tabTrigger>Bund-resolve</tabTrigger>
-    <scope>source.php</scope>
+    <!-- <scope>source.php</scope> -->
     <description>Laravel: Bundle::resolve()</description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[Redis::db(${1:\$name});]]></content>
     <tabTrigger>Redis-d</tabTrigger>
-    <scope>source.php</scope>
+    <!-- <scope>source.php</scope> -->
     <description>Laravel: Redis::db()</description>
 </snippet>

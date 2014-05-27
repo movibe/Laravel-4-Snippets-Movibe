@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[Session::started();]]></content>
     <tabTrigger>Session-started</tabTrigger>
-    <scope>source.php</scope>
+    <!-- <scope>source.php</scope> -->
     <description>Laravel: Session::started()</description>
 </snippet>

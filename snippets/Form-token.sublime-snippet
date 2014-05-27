@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[Form::token();]]></content>
     <tabTrigger>Form-t</tabTrigger>
-    <scope>source.php</scope>
+    <!-- <scope>source.php</scope> -->
     <description>Laravel: Form::token()</description>
 </snippet>

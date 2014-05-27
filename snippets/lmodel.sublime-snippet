@@ -16,6 +16,6 @@ class ${1:Model} extends ${2:Eloquent} {
 }
 ]]></content>
 	<tabTrigger>lmodel</tabTrigger>
-	<scope>source.php</scope>
+	<!-- <scope>source.php</scope> -->l
 	<description>Engine Table</description>
 </snippet>

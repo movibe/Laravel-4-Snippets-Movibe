@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[findOrFail(${1:var});]]></content>
     <tabTrigger>findOrFail</tabTrigger>
-    <scope>source.php</scope>
+    <!-- <scope>source.php</scope> -->
     <description>Laravel 4: findOrFail</description>
 </snippet>

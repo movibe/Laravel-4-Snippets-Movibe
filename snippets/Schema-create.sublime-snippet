@@ -5,6 +5,6 @@
 	\$table->timestamps();
 });]]></content>
     <tabTrigger>Schema-create</tabTrigger>
-    <scope>source.php</scope>
+    <!-- <scope>source.php</scope> -->
     <description>Laravel: Schema::create()</description>
 </snippet>

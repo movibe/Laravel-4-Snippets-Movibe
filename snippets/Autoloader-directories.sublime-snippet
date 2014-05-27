@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[Autoloader::directories(${1:\$directory});]]></content>
     <tabTrigger>Auto-directories</tabTrigger>
-    <scope>source.php</scope>
+    <!-- <scope>source.php</scope> -->
     <description>Laravel: Autoloader::directories()</description>
 </snippet>

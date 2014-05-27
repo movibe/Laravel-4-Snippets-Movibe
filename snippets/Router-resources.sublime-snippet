@@ -10,6 +10,6 @@ Route::put('${1}s/(:any)', '${1}s@update');
 Route::delete('${1}s/(:any)', '${1}s@destroy');
 ]]></content>
     <tabTrigger>resource</tabTrigger>
-    <scope>source.php</scope>
+    <!-- <scope>source.php</scope> -->
     <description>Laravel: Resources</description>
 </snippet>

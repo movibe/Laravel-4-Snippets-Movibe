@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[File::mvdir(${1:\$source}, ${2:\$destination}, ${3:\$options});]]></content>
     <tabTrigger>File-m</tabTrigger>
-    <scope>source.php</scope>
+    <!-- <scope>source.php</scope> -->
     <description>Laravel: File::mvdir()</description>
 </snippet>

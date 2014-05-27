@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[Bundle::element(${1:\$identifier});]]></content>
     <tabTrigger>Bund-element</tabTrigger>
-    <scope>source.php</scope>
+    <!-- <scope>source.php</scope> -->
     <description>Laravel: Bundle::element()</description>
 </snippet>

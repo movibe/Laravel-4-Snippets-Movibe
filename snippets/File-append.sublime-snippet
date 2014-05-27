@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[File::append(${1:\$path}, ${2:\$data});]]></content>
     <tabTrigger>File-a</tabTrigger>
-    <scope>source.php</scope>
+    <!-- <scope>source.php</scope> -->
     <description>Laravel: File::append()</description>
 </snippet>

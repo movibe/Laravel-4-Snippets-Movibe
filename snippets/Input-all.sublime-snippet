@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[Input::all()]]></content>
     <tabTrigger>Input-all</tabTrigger>
-    <scope>source.php</scope>
+    <!-- <scope>source.php</scope> -->
     <description>Laravel: Input::all()</description>
 </snippet>

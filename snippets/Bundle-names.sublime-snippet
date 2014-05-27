@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[Bundle::names();]]></content>
     <tabTrigger>Bund-names</tabTrigger>
-    <scope>source.php</scope>
+    <!-- <scope>source.php</scope> -->
     <description>Laravel: Bundle::names()</description>
 </snippet>

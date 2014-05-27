@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[Request::ip(${1:\$default});]]></content>
     <tabTrigger>Req-i</tabTrigger>
-    <scope>source.php</scope>
+    <!-- <scope>source.php</scope> -->
     <description>Laravel: Request::ip()</description>
 </snippet>

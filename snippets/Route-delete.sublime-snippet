@@ -3,6 +3,6 @@
 	${2:code}
 }]]></content>
     <tabTrigger>Route-delete</tabTrigger>
-    <scope>source.php</scope>
+    <!-- <scope>source.php</scope> -->
     <description>Laravel: Route::delete()</description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[Bundle::handles(${1:\$uri});]]></content>
     <tabTrigger>Bund-handles</tabTrigger>
-    <scope>source.php</scope>
+    <!-- <scope>source.php</scope> -->
     <description>Laravel: Bundle::handles()</description>
 </snippet>

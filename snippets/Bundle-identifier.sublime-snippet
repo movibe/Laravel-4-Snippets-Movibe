@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[Bundle::identifier(${1:\$bundle}, ${2:\$element});]]></content>
     <tabTrigger>Bund-identifier</tabTrigger>
-    <scope>source.php</scope>
+    <!-- <scope>source.php</scope> -->
     <description>Laravel: Bundle::identifier()</description>
 </snippet>

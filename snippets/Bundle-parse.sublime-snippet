@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[Bundle::parse(${1:\$identifier});]]></content>
     <tabTrigger>Bund-parse</tabTrigger>
-    <scope>source.php</scope>
+    <!-- <scope>source.php</scope> -->
     <description>Laravel: Bundle::parse()</description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[Input::file(${1:\$key}, ${2:\$default});]]></content>
     <tabTrigger>Input-file</tabTrigger>
-    <scope>source.php</scope>
+    <!-- <scope>source.php</scope> -->
     <description>Laravel: Input::file()</description>
 </snippet>

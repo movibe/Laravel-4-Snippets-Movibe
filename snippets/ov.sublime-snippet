@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[\$${1:object}->${2:${3:set} = '${4:value}'};]]></content>
+    <content><![CDATA[\$${1:object}->${2:${3:set} = '${4:value}'}]]></content>
     <tabTrigger>ov</tabTrigger>
     <!-- <scope>source.php</scope> -->
     <description>Object->set=value</description>

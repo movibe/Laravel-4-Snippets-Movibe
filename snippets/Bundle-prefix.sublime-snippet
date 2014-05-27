@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[Bundle::prefix(${1:\$bundle});]]></content>
     <tabTrigger>Bund-prefix</tabTrigger>
-    <scope>source.php</scope>
+    <!-- <scope>source.php</scope> -->
     <description>Laravel: Bundle::prefix()</description>
 </snippet>

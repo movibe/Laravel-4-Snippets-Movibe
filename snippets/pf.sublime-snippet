@@ -3,6 +3,6 @@
 	${3://code}
 }]]></content>
     <tabTrigger>pf</tabTrigger>
-    <scope>source.php</scope>
+    <!-- <scope>source.php</scope> -->
     <description>Public Function</description>
 </snippet>

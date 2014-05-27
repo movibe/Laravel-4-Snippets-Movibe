@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[Redirect::to('${1:url}'${2:, ${3:\$status}, ${4:\$https}});]]></content>
     <tabTrigger>Redirect-to</tabTrigger>
-    <scope>source.php</scope>
+    <!-- <scope>source.php</scope> -->
     <description>Laravel: Redirect::to()</description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[Bundle::start(${1:\$bundle});]]></content>
     <tabTrigger>Bund-start</tabTrigger>
-    <scope>source.php</scope>
+    <!-- <scope>source.php</scope> -->
     <description>Laravel: Bundle::start()</description>
 </snippet>

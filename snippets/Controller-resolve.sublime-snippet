@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[Controller::resolve(${1:\$bundle}, ${2:\$controller});]]></content>
     <tabTrigger>Contr-r</tabTrigger>
-    <scope>source.php</scope>
+    <!-- <scope>source.php</scope> -->
     <description>Laravel: Controller::resolve()</description>
 </snippet>

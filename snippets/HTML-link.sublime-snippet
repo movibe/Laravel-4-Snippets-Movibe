@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[{{ HTML::link('${1:\$url}', '${2:\$title}'${3:, ${4:\$attributes}, ${5:\$https}}) }}]]></content>
-    <tabTrigger>hlink</tabTrigger>
+    <tabTrigger>html-link</tabTrigger>
     <!-- <scope>source.php</scope> -->
     <description>Laravel: HTML::link()</description>
 </snippet>

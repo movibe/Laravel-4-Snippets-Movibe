@@ -3,6 +3,6 @@
 	${2:code}
 }]]></content>
     <tabTrigger>fc</tabTrigger>
-    <scope>source.php</scope>
+    <!-- <scope>source.php</scope> -->
     <description>Function</description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[URI::is(${1:\$pattern});]]></content>
     <tabTrigger>URI-is</tabTrigger>
-    <scope>source.php</scope>
+    <!-- <scope>source.php</scope> -->
     <description>Laravel: URI::is()</description>
 </snippet>

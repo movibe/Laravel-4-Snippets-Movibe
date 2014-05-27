@@ -1,6 +1,6 @@
 <snippet>
-    <content><![CDATA[HTML::script(${1:\$url}, ${2:\$attributes});]]></content>
-    <tabTrigger>HTML-s</tabTrigger>
-    <scope>source.php</scope>
+    <content><![CDATA[{{ HTML::script('${1:\$url}', ${2:\$attributes}) }}]]></content>
+    <tabTrigger>html-sript</tabTrigger>
+    <!-- <scope>source.php</scope> -->
     <description>Laravel: HTML::script()</description>
 </snippet>

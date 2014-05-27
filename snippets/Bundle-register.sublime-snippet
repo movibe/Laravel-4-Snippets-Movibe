@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[Bundle::register(${1:\$bundle}, ${2:\$config});]]></content>
     <tabTrigger>Bund-register</tabTrigger>
-    <scope>source.php</scope>
+    <!-- <scope>source.php</scope> -->
     <description>Laravel: Bundle::register()</description>
 </snippet>

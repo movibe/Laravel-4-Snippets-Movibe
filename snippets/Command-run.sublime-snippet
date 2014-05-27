@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[Command::run(${1:\$arguments});]]></content>
     <tabTrigger>Com-r</tabTrigger>
-    <scope>source.php</scope>
+    <!-- <scope>source.php</scope> -->
     <description>Laravel: Command::run()</description>
 </snippet>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[Error::log(${1:\$exception});]]></content>
     <tabTrigger>Err-l</tabTrigger>
-    <scope>source.php</scope>
+    <!-- <scope>source.php</scope> -->
     <description>Laravel: Error::log()</description>
 </snippet>

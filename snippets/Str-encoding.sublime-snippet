@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[Str::encoding();]]></content>
     <tabTrigger>Str-encoding</tabTrigger>
-    <scope>source.php</scope>
+    <!-- <scope>source.php</scope> -->
     <description>Laravel: Str::encoding()</description>
 </snippet>

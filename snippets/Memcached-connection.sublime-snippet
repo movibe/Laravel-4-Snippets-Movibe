@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[Memcached::connection();]]></content>
     <tabTrigger>Mem-c</tabTrigger>
-    <scope>source.php</scope>
+    <!-- <scope>source.php</scope> -->
     <description>Laravel: Memcached::connection()</description>
 </snippet>

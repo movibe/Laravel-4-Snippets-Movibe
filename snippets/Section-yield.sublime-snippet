@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[Section::yield(${1:\$section});]]></content>
     <tabTrigger>Section-yield</tabTrigger>
-    <scope>source.php</scope>
+    <!-- <scope>source.php</scope> -->
     <description>Laravel: Section::yield()</description>
 </snippet>

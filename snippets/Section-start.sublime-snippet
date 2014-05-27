@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[Section::start(${1:\$section}, ${2:\$content});]]></content>
     <tabTrigger>Section-start</tabTrigger>
-    <scope>source.php</scope>
+    <!-- <scope>source.php</scope> -->
     <description>Laravel: Section::start()</description>
 </snippet>
