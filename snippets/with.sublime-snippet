@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[with(${1:})]]></content>
+    <tabTrigger>with</tabTrigger>
+    <!-- <scope>source.php</scope> -->
+    <description>Laravel: with</description>
+</snippet>
